@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kold-fyre
+- 👋 Hi, I’m Kelly.
 - 👀 I’m interested in Front-End Dev.
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
