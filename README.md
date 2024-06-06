@@ -1,8 +1,5 @@
-### Bio for GitHub
-
----
-
 ### Hi there! 👋 I'm Samuel Arku-Kelly
+---
 
 **🌐 Front-End Web Developer & Designer**
 
