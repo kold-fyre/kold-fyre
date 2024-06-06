@@ -4,7 +4,7 @@
 **🌐 Front-End Web Developer & Designer**
 
 I'm passionate about crafting intuitive and dynamic user interfaces. My expertise lies in:
-- **Frameworks & Libraries**: Angular, React, vanilla JavaScript
+- **Frameworks & Libraries**: Angular, React, TypeScript JavaScript
 - **Design Tools**: Adobe Photoshop, Adobe XD, Figma
 - **Infrastructure**: AWS, Google Firebase, GCP
 
